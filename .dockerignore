@@ -1,0 +1,9 @@
+.git
+**/__pycache__
+**/*.pyc
+.pytest_cache
+.venv
+out
+third_party
+src/stride
+src/voronota

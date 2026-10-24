@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+out/
+*_graph.npz
+.venv/
+
+# STRIDE and Voronota are installed by the user, never committed (licences; see README)
+third_party/
+src/stride
+src/voronota
